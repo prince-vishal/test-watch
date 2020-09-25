@@ -3,7 +3,7 @@ info:
   version: '1'
   title: rtyuiuy
 servers:
-  - url: 'http://localhost:3000addg'
+  - url: 'http://localhost:3000'
 paths:
   /user:
     get:
